@@ -1,0 +1,27 @@
+  {
+    "title": "Yousubz",
+    "description": "Youtube subscriber webapp",
+    "menu":{
+      "home":"Home",
+      "hiw":"How It Works",
+      "contact":"Contact Us",
+      "logReg":"Login / Register"
+    },
+    "letmein":"LET ME IN NOW!",
+    "featuresBenefit":"FEATURES & BENEFITS",
+    "simpletouse": "Simple to USE",
+    "para1":"Our Simple Network Allows you to Gain YOU TUBE",
+    "para2":"Subscribers and Likes for your channel ",
+    "signupLogin":"Sign UP & LOGIN",
+    "activateplan": "Activate a Plan",
+    "watchChannel": "Watch your channel",
+    "grow": " GROW",
+    "freeToUse": "FREE TO USE",
+    "freeToUsePara":"Our Simple Network Allows you to Gain YOU TUBE Subscribers and Likes for your channel.",
+    "youtubeCommunity": "YOUTUBE COMMUNITY",
+    "youtubeCommunityPara":"Our Simple Network Allows you to Gain YOU TUBE Subscribers and Likes for your channel.",
+    "friendlySupport": "FRIENDLY SUPPORT",
+    "friendlySupportPara": "Our Simple Network Allows you to Gain YOU TUBE Subscribers and Likes for your channel.",
+    "freeSubscription": " I want free Subscribers and Likes Now"
+    
+  }
